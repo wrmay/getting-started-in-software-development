@@ -1,2 +1,2 @@
-# getting-started-in-software-development
-My thoughts on the skills you need to know.
+# How to get started in software development
+
